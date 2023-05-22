@@ -5,6 +5,11 @@ public class ortakClass {
 
 
         System.out.println("Zeynep sare");
+
+
+
+
+
     }
 
 
