@@ -5,12 +5,7 @@ public class ortakClass {
 
 
         System.out.println("Zeynep sare");
-
-
-
-
+        System.out.println("ben muleykeeee");
 
     }
-
-
 }
