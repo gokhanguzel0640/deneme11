@@ -9,5 +9,6 @@ public class ortakClass {
         System.out.println("Fatih was here");
         System.out.println("Class isimleri buyuk harfle baslar :) ");
         System.out.println("hey there!");
+
     }
 }
