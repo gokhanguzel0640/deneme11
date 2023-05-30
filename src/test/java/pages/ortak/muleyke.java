@@ -4,8 +4,6 @@ public class muleyke {
     public static void main(String[] args) {
         System.out.println("selammmm");
         System.out.println("yine ben");
-
-        //ingilizce
         System.out.println("hiiii");
     }
 }
